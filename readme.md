@@ -43,7 +43,6 @@ This report presents a characterization of a Nikon Z50 mirrorless camera paired 
 ## Reproduction Instructions
 
 1. **Install Dependencies:**
-   Ensure you have Python 3.9+ installed. Run the following command to install required scientific libraries:
    ```bash
    pip install numpy scipy matplotlib opencv-python rawpy tifffile pytest
    ```
